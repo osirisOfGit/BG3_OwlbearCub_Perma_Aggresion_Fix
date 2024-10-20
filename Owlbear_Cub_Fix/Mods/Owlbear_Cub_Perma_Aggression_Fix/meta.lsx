@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="0" build="68" />
+  <region id="Config">
+    <node id="root">
+      <children>
+        <node id="Dependencies">
+          <children></children>
+        </node>
+        <node id="ModuleInfo">
+          <attribute id="Author" type="LSWString" value="OsirisOfInternet" />
+          <attribute id="CharacterCreationLevelName" type="FixedString" value="" />
+          <attribute id="Description" type="LSWString" value="If playing with Honor Mode Ruleset, killing the Owlbear Mother before the Mate will cause the Cub to remain in combat. This ensures that the appropriate flag is tripped in that scenario, allowing you to progress with the Cub's storyline. Safe to remove at any point." />
+          <attribute id="Folder" type="LSWString" value="Owlbear_Cub_Perma_Aggression_Fix" />
+          <attribute id="GMTemplate" type="FixedString" value="" />
+          <attribute id="LobbyLevelName" type="FixedString" value="" />
+          <attribute id="MD5" type="LSString" value="" />
+          <attribute id="MainMenuBackgroundVideo" type="FixedString" value="" />
+          <attribute id="MenuLevelName" type="FixedString" value="" />
+          <attribute id="Name" type="FixedString" value="Owlbear Cub Permanent Aggression Fix" />
+          <attribute id="NumPlayers" type="uint8" value="4" />
+          <attribute id="PhotoBooth" type="FixedString" value="" />
+          <attribute id="StartupLevelName" type="FixedString" value="" />
+          <attribute id="Tags" type="LSWString" value="Fix, Owlbear Cub" />
+          <attribute id="Type" type="FixedString" value="Add-on" />
+          <attribute id="UUID" type="FixedString" value="b83fa12c-e1de-4884-968c-f936e25ef85e" />
+          <attribute id="Version64" type="int64" value="36028797018963968" />
+          <children>
+            <node id="PublishVersion">
+              <attribute id="Version64" type="int64" value="36028797018963968" />
+            </node>
+            <node id="Scripts" />
+            <node id="TargetModes">
+              <children>
+                <node id="Target">
+                  <attribute id="Object" type="FixedString" value="Story" />
+                </node>
+              </children>
+            </node>
+          </children>
+        </node>
+      </children>
+    </node>
+  </region>
+</save>

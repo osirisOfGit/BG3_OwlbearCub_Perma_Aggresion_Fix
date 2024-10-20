@@ -1,0 +1,5 @@
+{
+    "RequiredVersion": 20,
+    "ModTable": "Owlbear_Cub_Perma_Aggression_Fix",
+    "FeatureFlags": ["Lua"]
+}
